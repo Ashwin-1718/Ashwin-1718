@@ -1,13 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashwin</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-###
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-<br clear="both">
-
-
 
 - 🌱 I’m currently learning **Data Science**
 
