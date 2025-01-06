@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h1 align="center">Hi 👋, I'm Ashwin</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
 ###
 
@@ -49,8 +50,7 @@
 ###
 
 
-<h1 align="center">Hi 👋, I'm Ashwin</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+
 
 - 🌱 I’m currently learning **Data Science**
 
