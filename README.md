@@ -35,7 +35,11 @@ I enjoy finding stories hidden in data and turning them into meaningful insights
 <img src="[https://img.shields.io/badge/SQL Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="[https://img.shields.io/badge/Træ AI-black?style=for-the-badge&logo=tree&logoColor=green](https://img.shields.io/badge/Tr%C3%A6%20AI-black?style=for-the-badge&logo=tree&logoColor=green)" alt="Træ AI" height="40"/>
+ <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" height="40"/>
+  <img src="https://img.shields.io/badge/DeepSeek-blue?style=for-the-badge&logoColor=white" alt="DeepSeek" height="40"/>
+  <img src="https://img.shields.io/badge/Grok-black?style=for-the-badge&logo=x&logoColor=white" alt="Grok" height="40"/>
+  <img src="https://img.shields.io/badge/Tr%C3%A6%20AI-black?style=for-the-badge&logo=tree&logoColor=green" alt="Træ AI" height="40"/>
+
 
 ![Divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
