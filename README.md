@@ -4,12 +4,31 @@
 </p>
 
 <h1 align="center">
-<img src="[https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=1&pause=10000000&color=00FFFF&center=true&vCenter=true&width=500&height=60&lines=Hello%2C+I'm+Ashwin](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=30&duration=1&pause=10000000&color=00FFFF&center=true&vCenter=true&width=500&height=60&lines=Hello%2C+I%27m+Ashwin)" alt="Hello, I'm Ashwin" />
-</h1>
-
+<!-- <img src="[https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=1&pause=10000000&color=00FFFF&center=true&vCenter=true&width=500&height=60&lines=Hello%2C+I'm+Ashwin](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=30&duration=1&pause=10000000&color=00FFFF&center=true&vCenter=true&width=500&height=60&lines=Hello%2C+I%27m+Ashwin)" alt="Hello, I'm Ashwin" /> -->
+</h1
+  
 <h3 align="center">
 <!--   <img src="[https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=2500&pause=500&color=A5B4FC&center=true&vCenter=true&width=500&height=40&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Data+Science+Explorer;Problem+Solver;Continuous+Learner](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=24&duration=2500&pause=500&color=A5B4FC&center=true&vCenter=true&width=500&height=40&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Data+Science+Explorer;Problem+Solver;Continuous+Learner)" alt="MERN Stack Developer" /> -->
 </h3>
+
+<!--  ------------------- New Code Start Form Here ----------------------------   -->
+
+# 💫 About Me:
+
+🔭 **I’m currently working on:**  
+Exploring data analytics, visualization techniques, and applying insights to real-world problems.  
+
+👯 **I’m looking to collaborate on:**  
+Fullstack and data-driven projects where I can combine development skills with analytics.  
+
+🌱 **I’m currently learning:**  
+Data Science, and modern data visualization tools.  
+
+🎓 **Education:**  
+Currently pursuing **B.Sc. in Data Analytics & Visual Insight (5th Semester)** at **Gujarat University**.  
+
+⚡ **Fun fact:**  
+I enjoy finding stories hidden in data and turning them into meaningful insights.  
 
 ![Divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
