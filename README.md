@@ -32,17 +32,17 @@ I enjoy finding stories hidden in data and turning them into meaningful insights
 ## 📈 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Ashwin-1718&show_icons=true&theme=radical" alt="Ashwin's GitHub stats" height="180"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashwin-1718&theme=radical" alt="streak stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ashwin-1718&show_icons=true&theme=radical&include_all_commits=true" alt="Ashwin's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashwin-1718&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwin-1718&layout=compact&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwin-1718&layout=compact&theme=radical" alt="Top Languages by Ashwin" />
 </p>
 
-</div>
 
 ![Divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
 
 ## 📫 Connect With Me
 
