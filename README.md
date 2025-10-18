@@ -37,12 +37,12 @@ I enjoy finding stories hidden in data and turning them into meaningful insights
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwin-1718&layout=compact&theme=radical" alt="Top Languages by Ashwin" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwin-1718&layout=compact&theme=radical" alt="Top Languages by Ashwin" /> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwin-1718&layout=compact&theme=radical&exclude_repo=repository-name-to-ignore" alt="Top Languages by Ashwin" />
 </p>
 
 
 ![Divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
-
 
 ## 📫 Connect With Me
 
