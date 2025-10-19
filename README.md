@@ -35,7 +35,7 @@ I enjoy finding stories hidden in data and turning them into meaningful insights
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=Ashwin-1718&show_icons=true&theme=radical&include_all_commits=true&cache_bust=1" 
+    src="https://github-readme-stats.vercel.app/api?username=Ashwin-1718&show_icons=true&theme=radical&include_all_commits=true&cache_bust=1&cache_seconds=1800" 
     alt="Ashwin's GitHub stats" 
   />
   <img 
@@ -46,7 +46,7 @@ I enjoy finding stories hidden in data and turning them into meaningful insights
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwin-1718&layout=compact&theme=radical&exclude_repo=repository-name-to-ignore&cache_bust=1" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwin-1718&layout=compact&theme=radical&exclude_repo=repository-name-to-ignore&cache_bust=1&cache_seconds=1800" 
     alt="Top Languages by Ashwin" 
   />
 </p>
