@@ -1,22 +1,29 @@
-# 💫 About Me:
-🔭 **I’m currently working on:**  
-Exploring data analytics, visualization techniques, and applying insights to real-world problems.  
+# 💫 About Me  
 
-👯 **I’m looking to collaborate on:**  
-Fullstack and data-driven projects where I can combine development skills with analytics.  
+🔭 **Currently Working On:**  
+Diving deep into **data analytics and visualization**, transforming complex datasets into actionable insights that drive real-world decisions.  
 
-🌱 **I’m currently learning:**  
-Data Science, and modern data visualization tools.  
+👯 **Open to Collaborate On:**  
+**Full-stack and data-driven projects** that blend development, analytics, and creativity to solve meaningful problems.  
+
+🌱 **Currently Learning:**  
+Advancing my skills in **Data Science, Machine Learning**, and modern **data visualization tools** like Power BI, Tableau, and Python libraries (Matplotlib, Seaborn, Plotly).  
 
 🎓 **Education:**  
-Currently pursuing **B.Sc. in Data Analytics & Visual Insight (5th Semester)** at **Gujarat University**.  
+Pursuing **B.Sc. in Data Analytics & Visual Insight (5th Semester)** from **Gujarat University**.  
 
-⚡ **Fun fact:**  
-I enjoy finding stories hidden in data and turning them into meaningful insights.  
+💡 **Passionate About:**  
+Finding hidden patterns in data, creating visually engaging dashboards, and making data tell compelling stories.  
+
+⚡ **Fun Fact:**  
+When I’m not analyzing data, I love exploring new tech trends, UI/UX designs, and discovering ways to make information beautiful and easy to understand.  
 
 ![Divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 <div align="center">
+✨ *Let’s turn data into stories that inspire action!* ✨  
+</div>
+
 
 ## 🚀 Tech Stack  
 
