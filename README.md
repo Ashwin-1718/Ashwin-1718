@@ -66,7 +66,7 @@ When I’m not analyzing data, I love exploring new tech trends, UI/UX designs, 
 ## 📫 Connect With Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ashwin-yadav-40774a363" target="_blank">
+  <a href="https://www.linkedin.com/in/ashwin-yadav1718" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   
