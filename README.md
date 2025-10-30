@@ -1,7 +1,7 @@
 # 💫 About Me  
 
 🔭 **Currently Working On:**  
-Diving deep into **data analytics and visualization**, transforming complex datasets into actionable insights that drive real-world decisions.  
+Diving deep into **Data analytics and visualization**, transforming complex datasets into actionable insights that drive real-world decisions.  
 
 👯 **Open to Collaborate On:**  
 **Full-stack and data-driven projects** that blend development, analytics, and creativity to solve meaningful problems.  
