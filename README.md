@@ -7,7 +7,7 @@ Diving deep into **Data analytics and visualization**, transforming complex data
 **Full-stack and data-driven projects** that blend development, analytics, and creativity to solve meaningful problems.  
 
 🌱 **Currently Learning:**  
-Advancing my skills in **Data Science, Machine Learning**, and modern **ata visualization tools** like Power BI, Tableau, and Python libraries (Matplotlib, Seaborn, Plotly).  
+Advancing my skills in **Data Science, Machine Learning**, and modern **Data visualization tools** like Power BI, Tableau, and Python libraries (Matplotlib, Seaborn, Plotly).  
 
 🎓 **Education:**  
 Pursuing **B.Sc. in Data Analytics & Visual Insight (5th Semester)** from **Gujarat University**.  
