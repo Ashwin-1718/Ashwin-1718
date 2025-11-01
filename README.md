@@ -1,3 +1,12 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Ashwin+Yadav!+👋;Data+Analyst+%26+Full+Stack+Developer;Turning+Data+into+Actionable+Insights;Building+Modern+Web+Experiences+⚡" alt="Typing SVG" />
+</h1>
+
+
+<p align="center">
+  <img src="https://github.com/Ashwin-1718/Ashwin-1718/blob/main/assets/divider.gif" alt="divider" width="90%">
+</p>
+
 # 💫 About Me  
 
 🔭 **Currently Working On:**  
