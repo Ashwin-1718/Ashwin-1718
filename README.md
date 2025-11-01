@@ -47,30 +47,22 @@ When I’m not analyzing data, I love exploring new tech trends, UI/UX designs, 
 
 ## 📈 GitHub Stats
 
----
-
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Ashwin-1718&show_icons=true&theme=radical&include_all_commits=true&cache_bust=1&cache_seconds=1800" 
-    alt="Ashwin's GitHub stats" 
-  />
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Ashwin-1718&theme=radical&cache_bust=1" 
-    alt="GitHub Streak" 
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ashwin-1718&show_icons=true&theme=radical&include_all_commits=true&cache_seconds=1800" alt="GitHub stats" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashwin-1718&theme=radical" alt="GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwin-1718&layout=compact&theme=radical&exclude_repo=repository-name-to-ignore&cache_bust=1&cache_seconds=1800" 
-    alt="Top Languages by Ashwin" 
-  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwin-1718&layout=compact&theme=radical&exclude_repo=unused-repo&cache_seconds=1800" alt="Top Languages" width="%" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/Ashwin-1718/Ashwin-1718/blob/main/assets/divider.gif" alt="divider" width="90%">
 </p>
 
 ---
 
 ![Divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
-
 
 ## 📫 Connect With Me  
 
