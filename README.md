@@ -10,30 +10,31 @@
 # 💫 About Me  
 ![Gradient Line](https://capsule-render.vercel.app/api?type=rect&color=0:06b6d4,100:3b82f6&height=3)
 
+## Where Data Meets Beautiful Storytelling
+
 🔭 **Currently Working On:**  
-Diving deep into **Data analytics and visualization**, transforming complex datasets into actionable insights that drive real-world decisions.  
+Exploring advanced **Machine Learning techniques** and performing in-depth **Exploratory Data Analysis (EDA)** to extract meaningful insights and build predictive solutions.
 
 👯 **Open to Collaborate On:**  
-**Full-stack and data-driven projects** that blend development, analytics, and creativity to solve meaningful problems.  
+Innovative **data-driven and full-stack projects** that integrate analytics, development, and intelligent decision-making to solve impactful real-world challenges.
 
-🌱 **Currently Learning:**  
-Advancing my skills in **Data Science, Machine Learning**, and modern **Data visualization tools** like Power BI, Tableau, and Python libraries (Matplotlib, Seaborn, Plotly).  
+🌱 **Currently Learning & Advancing In:**  
+Deepening my expertise in **Machine Learning and EDA**, with completed hands-on proficiency in **Power BI, Tableau, and Python visualization libraries (Matplotlib, Seaborn, Plotly)**.
 
 🎓 **Education:**  
-Pursuing **B.Sc. in Data Analytics & Visual Insight** from **Gujarat University**.  
+Pursuing **Bachelor of Science in Data Analytics & Visual Insight** from **Gujarat University**.
 
 💡 **Passionate About:**  
-Finding hidden patterns in data, creating visually engaging dashboards, and making data tell compelling stories.  
+Transforming raw data into strategic insights, designing intuitive dashboards, and crafting compelling data narratives that empower informed decision-making.
 
 ⚡ **Fun Fact:**  
-When I’m not analyzing data, I love exploring new tech trends, UI/UX designs, and discovering ways to make information beautiful and easy to understand.  
+Beyond data, I enjoy exploring emerging technologies, UI/UX aesthetics, and discovering innovative ways to make information visually captivating and intellectually engaging.
 
 ![Gradient Line](https://capsule-render.vercel.app/api?type=rect&color=0:06b6d4,100:3b82f6&height=3)
 
 <div align="center">
-✨ *Let’s turn data into stories that inspire action!* ✨  
+✨ *Turning data into actionable intelligence and impactful stories.* ✨  
 </div>
-
 
 ## 🚀 Tech Stack 
 
