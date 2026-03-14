@@ -7,33 +7,34 @@
   <img src="https://github.com/Ashwin-1718/Ashwin-1718/blob/main/assets/divider.gif" alt="divider" width="90%">
 </p>
 
-# 💫 𝐴𝑏𝑜𝑢𝑡 𝑀𝑒 
+
+# 💫 𝐴𝑏𝑜𝑢𝑡 𝑀𝑒
 ![Gradient Line](https://capsule-render.vercel.app/api?type=rect&color=0:06b6d4,100:3b82f6&height=3)
 
-<h2 align="center"><b>𝑾𝒉𝒆𝒓𝒆 𝑫𝒂𝒕𝒂 𝑴𝒆𝒆𝒕𝒔 𝑩𝒆𝒂𝒖𝒕𝒊𝒇𝒖𝒍 𝑺𝒕𝒐𝒓𝒚𝒕𝒆𝒍𝒍𝒊𝒏𝒈</b></h2>
+<h2 align="center"><b>Where Data Meets Beautiful Storytelling</b></h2>
 
-🔭 **𝐶𝑢𝑟𝑟𝑒𝑛𝑡𝑙𝑦 𝑊𝑜𝑟𝑘𝑖𝑛𝑔 𝑂𝑛:**  
-𝐸𝑥𝑝𝑙𝑜𝑟𝑖𝑛𝑔 𝑎𝑑𝑣𝑎𝑛𝑐𝑒𝑑 **𝑀𝑎𝑐ℎ𝑖𝑛𝑒 𝐿𝑒𝑎𝑟𝑛𝑖𝑛𝑔 𝑡𝑒𝑐ℎ𝑛𝑖𝑞𝑢𝑒𝑠** 𝑎𝑛𝑑 𝑝𝑒𝑟𝑓𝑜𝑟𝑚𝑖𝑛𝑔 𝑖𝑛-𝑑𝑒𝑝𝑡ℎ **𝐸𝑥𝑝𝑙𝑜𝑟𝑎𝑡𝑜𝑟𝑦 𝐷𝑎𝑡𝑎 𝐴𝑛𝑎𝑙𝑦𝑠𝑖𝑠 (𝐸𝐷𝐴)** 𝑡𝑜 𝑒𝑥𝑡𝑟𝑎𝑐𝑡 𝑚𝑒𝑎𝑛𝑖𝑛𝑔𝑓𝑢𝑙 𝑖𝑛𝑠𝑖𝑔ℎ𝑡𝑠 𝑎𝑛𝑑 𝑏𝑢𝑖𝑙𝑑 𝑝𝑟𝑒𝑑𝑖𝑐𝑡𝑖𝑣𝑒 𝑠𝑜𝑙𝑢𝑡𝑖𝑜𝑛𝑠.
+🔭 **Currently Working On:**  
+Exploring advanced **Machine Learning techniques** and performing in-depth **Exploratory Data Analysis (EDA)** to extract meaningful insights and build predictive solutions.
 
-👯 **𝑂𝑝𝑒𝑛 𝑡𝑜 𝐶𝑜𝑙𝑙𝑎𝑏𝑜𝑟𝑎𝑡𝑒 𝑂𝑛:**  
-𝐼𝑛𝑛𝑜𝑣𝑎𝑡𝑖𝑣𝑒 **𝑑𝑎𝑡𝑎-𝑑𝑟𝑖𝑣𝑒𝑛 𝑎𝑛𝑑 𝑓𝑢𝑙𝑙-𝑠𝑡𝑎𝑐𝑘 𝑝𝑟𝑜𝑗𝑒𝑐𝑡𝑠** 𝑡ℎ𝑎𝑡 𝑖𝑛𝑡𝑒𝑔𝑟𝑎𝑡𝑒 𝑎𝑛𝑎𝑙𝑦𝑡𝑖𝑐𝑠, 𝑑𝑒𝑣𝑒𝑙𝑜𝑝𝑚𝑒𝑛𝑡, 𝑎𝑛𝑑 𝑖𝑛𝑡𝑒𝑙𝑙𝑖𝑔𝑒𝑛𝑡 𝑑𝑒𝑐𝑖𝑠𝑖𝑜𝑛-𝑚𝑎𝑘𝑖𝑛𝑔 𝑡𝑜 𝑠𝑜𝑙𝑣𝑒 𝑖𝑚𝑝𝑎𝑐𝑡𝑓𝑢𝑙 𝑟𝑒𝑎𝑙-𝑤𝑜𝑟𝑙𝑑 𝑐ℎ𝑎𝑙𝑙𝑒𝑛𝑔𝑒𝑠.
+👯 **Open to Collaborate On:**  
+Innovative **data-driven and full-stack projects** that integrate analytics, development, and intelligent decision-making to solve impactful real-world challenges.
 
-🌱 **𝐶𝑢𝑟𝑟𝑒𝑛𝑡𝑙𝑦 𝐿𝑒𝑎𝑟𝑛𝑖𝑛𝑔 & 𝐴𝑑𝑣𝑎𝑛𝑐𝑖𝑛𝑔 𝐼𝑛:**  
-𝐷𝑒𝑒𝑝𝑒𝑛𝑖𝑛𝑔 𝑚𝑦 𝑒𝑥𝑝𝑒𝑟𝑡𝑖𝑠𝑒 𝑖𝑛 **𝑀𝑎𝑐ℎ𝑖𝑛𝑒 𝐿𝑒𝑎𝑟𝑛𝑖𝑛𝑔 𝑎𝑛𝑑 𝐸𝐷𝐴**, 𝑤𝑖𝑡ℎ 𝑐𝑜𝑚𝑝𝑙𝑒𝑡𝑒𝑑 ℎ𝑎𝑛𝑑𝑠-𝑜𝑛 𝑝𝑟𝑜𝑓𝑖𝑐𝑖𝑒𝑛𝑐𝑦 𝑖𝑛 **𝑃𝑜𝑤𝑒𝑟 𝐵𝐼, 𝑇𝑎𝑏𝑙𝑒𝑎𝑢, 𝑎𝑛𝑑 𝑃𝑦𝑡ℎ𝑜𝑛 𝑣𝑖𝑠𝑢𝑎𝑙𝑖𝑧𝑎𝑡𝑖𝑜𝑛 𝑙𝑖𝑏𝑟𝑎𝑟𝑖𝑒𝑠 (𝑀𝑎𝑡𝑝𝑙𝑜𝑡𝑙𝑖𝑏, 𝑆𝑒𝑎𝑏𝑜𝑟𝑛, 𝑃𝑙𝑜𝑡𝑙𝑦)**.
+🌱 **Currently Learning & Advancing In:**  
+Deepening my expertise in **Machine Learning and EDA**, with hands-on proficiency in **Power BI, Tableau, and Python visualization libraries (Matplotlib, Seaborn, Plotly)**.
 
-🎓 **𝐸𝑑𝑢𝑐𝑎𝑡𝑖𝑜𝑛:**  
-𝑃𝑢𝑟𝑠𝑢𝑖𝑛𝑔 **𝐵𝑎𝑐ℎ𝑒𝑙𝑜𝑟 𝑜𝑓 𝑆𝑐𝑖𝑒𝑛𝑐𝑒 𝑖𝑛 𝐷𝑎𝑡𝑎 𝐴𝑛𝑎𝑙𝑦𝑡𝑖𝑐𝑠 & 𝑉𝑖𝑠𝑢𝑎𝑙 𝐼𝑛𝑠𝑖𝑔ℎ𝑡** 𝑓𝑟𝑜𝑚 **𝐺𝑢𝑗𝑎𝑟𝑎𝑡 𝑈𝑛𝑖𝑣𝑒𝑟𝑠𝑖𝑡𝑦**.
+🎓 **Education:**  
+Pursuing **Bachelor of Science in Data Analytics & Visual Insight** from **Gujarat University**.
 
-💡 **𝑃𝑎𝑠𝑠𝑖𝑜𝑛𝑎𝑡𝑒 𝐴𝑏𝑜𝑢𝑡:**  
-𝑇𝑟𝑎𝑛𝑠𝑓𝑜𝑟𝑚𝑖𝑛𝑔 𝑟𝑎𝑤 𝑑𝑎𝑡𝑎 𝑖𝑛𝑡𝑜 𝑠𝑡𝑟𝑎𝑡𝑒𝑔𝑖𝑐 𝑖𝑛𝑠𝑖𝑔ℎ𝑡𝑠, 𝑑𝑒𝑠𝑖𝑔𝑛𝑖𝑛𝑔 𝑖𝑛𝑡𝑢𝑖𝑡𝑖𝑣𝑒 𝑑𝑎𝑠ℎ𝑏𝑜𝑎𝑟𝑑𝑠, 𝑎𝑛𝑑 𝑐𝑟𝑎𝑓𝑡𝑖𝑛𝑔 𝑐𝑜𝑚𝑝𝑒𝑙𝑙𝑖𝑛𝑔 𝑑𝑎𝑡𝑎 𝑛𝑎𝑟𝑟𝑎𝑡𝑖𝑣𝑒𝑠 𝑡ℎ𝑎𝑡 𝑒𝑚𝑝𝑜𝑤𝑒𝑟 𝑖𝑛𝑓𝑜𝑟𝑚𝑒𝑑 𝑑𝑒𝑐𝑖𝑠𝑖𝑜𝑛-𝑚𝑎𝑘𝑖𝑛𝑔.
+💡 **Passionate About:**  
+Transforming raw data into strategic insights, designing intuitive dashboards, and crafting compelling data narratives that empower informed decision-making.
 
-⚡ **𝐹𝑢𝑛 𝐹𝑎𝑐𝑡:**  
-𝐵𝑒𝑦𝑜𝑛𝑑 𝑑𝑎𝑡𝑎, 𝐼 𝑒𝑛𝑗𝑜𝑦 𝑒𝑥𝑝𝑙𝑜𝑟𝑖𝑛𝑔 𝑒𝑚𝑒𝑟𝑔𝑖𝑛𝑔 𝑡𝑒𝑐ℎ𝑛𝑜𝑙𝑜𝑔𝑖𝑒𝑠, 𝑈𝐼/𝑈𝑋 𝑎𝑒𝑠𝑡ℎ𝑒𝑡𝑖𝑐𝑠, 𝑎𝑛𝑑 𝑑𝑖𝑠𝑐𝑜𝑣𝑒𝑟𝑖𝑛𝑔 𝑖𝑛𝑛𝑜𝑣𝑎𝑡𝑖𝑣𝑒 𝑤𝑎𝑦𝑠 𝑡𝑜 𝑚𝑎𝑘𝑒 𝑖𝑛𝑓𝑜𝑟𝑚𝑎𝑡𝑖𝑜𝑛 𝑣𝑖𝑠𝑢𝑎𝑙𝑙𝑦 𝑐𝑎𝑝𝑡𝑖𝑣𝑎𝑡𝑖𝑛𝑔 𝑎𝑛𝑑 𝑖𝑛𝑡𝑒𝑙𝑙𝑒𝑐𝑡𝑢𝑎𝑙𝑙𝑦 𝑒𝑛𝑔𝑎𝑔𝑖𝑛𝑔.
+⚡ **Fun Fact:**  
+Beyond data, I enjoy exploring emerging technologies, UI/UX aesthetics, and discovering innovative ways to make information visually captivating and intellectually engaging.
 
 ![Gradient Line](https://capsule-render.vercel.app/api?type=rect&color=0:06b6d4,100:3b82f6&height=3)
 
 <div align="center">
-✨ *𝑇𝑢𝑟𝑛𝑖𝑛𝑔 𝑑𝑎𝑡𝑎 𝑖𝑛𝑡𝑜 𝑎𝑐𝑡𝑖𝑜𝑛𝑎𝑏𝑙𝑒 𝑖𝑛𝑡𝑒𝑙𝑙𝑖𝑔𝑒𝑛𝑐𝑒 𝑎𝑛𝑑 𝑖𝑚𝑝𝑎𝑐𝑡𝑓𝑢𝑙 𝑠𝑡𝑜𝑟𝑖𝑒𝑠.* ✨  
+✨ Turning data into actionable intelligence and impactful stories. ✨
 </div>
 
 ## 🚀 𝑇𝑒𝑐ℎ 𝑆𝑡𝑎𝑐𝑘 
