@@ -11,10 +11,7 @@
 # 💫 𝐴𝑏𝑜𝑢𝑡 𝑀𝑒
 ![Gradient Line](https://capsule-render.vercel.app/api?type=rect&color=0:06b6d4,100:3b82f6&height=3)
 
-<p align="center" style="margin:0;">
-  <img src="Image.png" width="500"/>
-</p>
-<!-- <h2 align="center"><b>Where Data Meets Beautiful Storytelling</b></h2> -->
+<h3 align="center"><b>𝑊ℎ𝑒𝑟𝑒 𝐷𝑎𝑡𝑎 𝑀𝑒𝑒𝑡𝑠 𝐵𝑒𝑎𝑢𝑡𝑖𝑓𝑢𝑙 𝑆𝑡𝑜𝑟𝑦𝑡𝑒𝑙𝑙𝑖𝑛𝑔 ♡</b></h3>
 
 🔭 **Currently Working On:**  
 Exploring advanced **Machine Learning techniques** and performing in-depth **Exploratory Data Analysis (EDA)** to extract meaningful insights and build predictive solutions.
@@ -37,7 +34,7 @@ Beyond data, I enjoy exploring emerging technologies, UI/UX aesthetics, and disc
 ![Gradient Line](https://capsule-render.vercel.app/api?type=rect&color=0:06b6d4,100:3b82f6&height=3)
 
 <div align="center">
-✨ Turning data into actionable intelligence and impactful stories. ✨
+✨ 𝑇𝑢𝑟𝑛𝑖𝑛𝑔 𝑑𝑎𝑡𝑎 𝑖𝑛𝑡𝑜 𝑎𝑐𝑡𝑖𝑜𝑛𝑎𝑏𝑙𝑒 𝑖𝑛𝑡𝑒𝑙𝑙𝑖𝑔𝑒𝑛𝑐𝑒 𝑎𝑛𝑑 𝑖𝑚𝑝𝑎𝑐𝑡𝑓𝑢𝑙 𝑠𝑡𝑜𝑟𝑖𝑒𝑠. ✨
 </div>
 
 ## 🚀 𝑇𝑒𝑐ℎ 𝑆𝑡𝑎𝑐𝑘 
