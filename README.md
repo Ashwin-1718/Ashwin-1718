@@ -11,7 +11,9 @@
 # 💫 𝐴𝑏𝑜𝑢𝑡 𝑀𝑒
 ![Gradient Line](https://capsule-render.vercel.app/api?type=rect&color=0:06b6d4,100:3b82f6&height=3)
 
-<h3 align="center"><b>𝑊ℎ𝑒𝑟𝑒 𝐷𝑎𝑡𝑎 𝑀𝑒𝑒𝑡𝑠 𝐵𝑒𝑎𝑢𝑡𝑖𝑓𝑢𝑙 𝑆𝑡𝑜𝑟𝑦𝑡𝑒𝑙𝑙𝑖𝑛𝑔 ♡</b></h3>
+<h3 align="center">
+  𝑊ℎ𝑒𝑟𝑒 𝐷𝑎𝑡𝑎 𝑀𝑒𝑒𝑡𝑠 𝐵𝑒𝑎𝑢𝑡𝑖𝑓𝑢𝑙 𝑆𝑡𝑜𝑟𝑦𝑡𝑒𝑙𝑙𝑖𝑛𝑔 
+</h3>
 
 🔭 **Currently Working On:**  
 Exploring advanced **Machine Learning techniques** and performing in-depth **Exploratory Data Analysis (EDA)** to extract meaningful insights and build predictive solutions.
